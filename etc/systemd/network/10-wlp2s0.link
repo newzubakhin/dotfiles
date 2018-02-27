@@ -1,0 +1,6 @@
+[Match]
+MACAddress=tozhe_standartniy
+
+[Link]
+Description=Wireless adapter
+Name=wlp2s0

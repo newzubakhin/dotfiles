@@ -1,0 +1,6 @@
+[Match]
+MACAddress=standartiy
+
+[Link]
+Description=Wire adapter
+Name=enp1s0
